@@ -5,4 +5,4 @@
 haut=10
 for rebond in range(1,10)
     haut=haut*0.6
-    print haut
+    print (haut)
